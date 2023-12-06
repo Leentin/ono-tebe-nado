@@ -111,11 +111,8 @@
   letter-spacing: 60px;
 }
 .no-letter-spacing {
-  font-size: 100px;
-  font-style: normal;
   letter-spacing: 0;
   line-height: 100%;
-  text-transform: uppercase;
 }
 
 .aligned-text_center {
